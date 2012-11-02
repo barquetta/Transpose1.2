@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Aug 27 23:07:57 CEST 2012
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=Transpose1.2_fat.jar
+manifest.mergeall=true
+manifest.mainclass=Esecuzione.Start
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=<inc|Transpose1.2/bin/Esecuzione>~img/
